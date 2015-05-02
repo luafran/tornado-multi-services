@@ -1,4 +1,4 @@
-# Tronado Skeleton
+# Tornado Skeleton Project
 
 Skeleton for web service projects involving multiple services implemented using tornado.
 
